@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734825264948",
+    "firebase_url": "https://meraparcel-c2690.firebaseio.com",
+    "project_id": "meraparcel-c2690",
+    "storage_bucket": "meraparcel-c2690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734825264948:android:ac916eeb86f488574e9761",
+        "android_client_info": {
+          "package_name": "com.meraparcel.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734825264948-f9c6gal2f2bj9e6aphifm81up86i531p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdaBijIiBz1HRXq0S14NBK4F2orMUgZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734825264948-f9c6gal2f2bj9e6aphifm81up86i531p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
