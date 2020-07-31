@@ -23,7 +23,7 @@ const Splash = () => {
   return(
     <View style={{flex:1,backgroundColor: '#fff',justifyContent:'center'}}>
       <StatusBar backgroundColor="#fff" translucent={true} barStyle = 'dark-content'/>
-      <Text style={{fontSize:24,fontWeight:'bold',letterSpacing:2,color:'#000',textAlign:'center'}}>MERAPARCEL</Text>
+      <Text style={{fontSize:24,fontWeight:'bold',letterSpacing:2,color:'#000',textAlign:'center'}}>PROJECT NAME</Text>
     </View>
   )
 }
